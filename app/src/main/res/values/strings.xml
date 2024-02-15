@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FizzBuzz</string>
+
+
+
+    <!-- My strings -->
+    <string name="string_info_number">Informe um número</string>
+    <string name="string_send_button">Enviar</string>
+    <string name="string_legend_image">Imagem com a logo do FizzBuzz</string>
+</resources>
