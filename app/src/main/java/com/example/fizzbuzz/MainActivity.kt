@@ -41,10 +41,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun verificationIsFizzBuzz(number: Int): String {
         return when {
-            number % 3 == 0 && number % 5 == 0 -> "O número: $number é FizzBuzz"
-            number % 3 == 0 -> "O número: $number é Fizz"
-            number % 5 == 0 -> "O número: $number é Buzz"
-            else -> "O número: $number não é FizzBuzz"
+            number % 3 == 0 && number % 5 == 0 -> "O número: $number é FizzBuzz."
+            number % 3 == 0 -> "O número: $number é Fizz."
+            number % 5 == 0 -> "O número: $number é Buzz."
+            else -> "O número: $number não é FizzBuzz."
         }
     }
 

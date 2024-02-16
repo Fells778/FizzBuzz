@@ -7,6 +7,6 @@
     <string name="string_send_button">Enviar</string>
     <string name="string_legend_image">Imagem com a logo do FizzBuzz</string>
     <string name="string_legend_image_icons">Imagem com a bonecos do FizzBuzz</string>
-    <string name="string_about_fizz_buzz">O teste FizzBuzz é um exercício comum de programação usado para avaliar a capacidade dos candidatos a desenvolvedores. Consiste em iterar sobre uma sequência de números e imprimir "Fizz" se o número for divisível por 3, "Buzz" se for divisível por 5 e "FizzBuzz" se for divisível por ambos. Este teste é utilizado para avaliar a compreensão básica de lógica de programação e habilidades de resolução de problemas</string>
+    <string name="string_about_fizz_buzz">O teste FizzBuzz é um exercício comum de programação usado para avaliar a capacidade dos candidatos a desenvolvedores. Consiste em iterar sobre uma sequência de números e imprimir "Fizz" se o número for divisível por 3, "Buzz" se for divisível por 5 e "FizzBuzz" se for divisível por ambos. Este teste é utilizado para avaliar a compreensão básica de lógica de programação e habilidades de resolução de problemas.</string>
     <string name="string_close_dialog">Fechar</string>
 </resources>
